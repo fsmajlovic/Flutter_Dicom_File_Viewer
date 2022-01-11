@@ -1,6 +1,6 @@
 # dicom
 
-A simple flutter application used for dicom file reading and viewing with the usage ofimebra library in native java code. File data is processed within the android java code and then passed back to flutter via MethodChannel.
+A simple flutter application used for dicom file reading and viewing with the usage of imebra library in native java code. File data is processed within the android java code and then passed back to flutter via MethodChannel.
 
 ## Getting Started
 
